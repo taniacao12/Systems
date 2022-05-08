@@ -13,3 +13,6 @@
 [submodule "persistent_server"]
 	path = persistent_server
 	url = https://github.com/taniacao12/persistent_server
+[submodule "semaphone"]
+	path = semaphone
+	url = https://github.com/taniacao12/semaphone
