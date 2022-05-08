@@ -19,3 +19,6 @@
 [submodule "shmegegge"]
 	path = shmegegge
 	url = https://github.com/taniacao12/shmegegge
+[submodule "shell"]
+	path = shell
+	url = https://github.com/taniacao12/shell
