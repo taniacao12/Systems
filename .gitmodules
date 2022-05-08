@@ -4,3 +4,6 @@
 [submodule "mancala"]
 	path = mancala
 	url = https://github.com/taniacao12/mancala
+[submodule "handshake"]
+	path = handshake
+	url = https://github.com/taniacao12/handshake
