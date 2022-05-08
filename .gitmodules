@@ -10,3 +10,6 @@
 [submodule "forking_server"]
 	path = forking_server
 	url = https://github.com/taniacao12/forking_server
+[submodule "persistent_server"]
+	path = persistent_server
+	url = https://github.com/taniacao12/persistent_server
