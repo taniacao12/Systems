@@ -7,3 +7,6 @@
 [submodule "handshake"]
 	path = handshake
 	url = https://github.com/taniacao12/handshake
+[submodule "forking_server"]
+	path = forking_server
+	url = https://github.com/taniacao12/forking_server
