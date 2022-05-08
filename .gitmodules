@@ -46,3 +46,6 @@
 [submodule "array_swap"]
 	path = array_swap
 	url = https://github.com/taniacao12/array_swap
+[submodule "euler"]
+	path = euler
+	url = https://github.com/taniacao12/euler
