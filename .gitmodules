@@ -40,3 +40,6 @@
 [submodule "myTunez"]
 	path = myTunez
 	url = https://github.com/taniacao12/myTunez
+[submodule "list"]
+	path = list
+	url = https://github.com/taniacao12/list
