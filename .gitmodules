@@ -1,0 +1,3 @@
+[submodule "teaMancala"]
+	path = teaMancala
+	url = https://github.com/taniacao12/teaMancala
