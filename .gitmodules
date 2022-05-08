@@ -1,3 +1,6 @@
 [submodule "teaMancala"]
 	path = teaMancala
 	url = https://github.com/taniacao12/teaMancala
+[submodule "mancala"]
+	path = mancala
+	url = https://github.com/taniacao12/mancala
