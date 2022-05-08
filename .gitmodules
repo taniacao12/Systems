@@ -31,3 +31,6 @@
 [submodule "signals"]
 	path = signals
 	url = https://github.com/taniacao12/signals
+[submodule "randfile"]
+	path = randfile
+	url = https://github.com/taniacao12/randfile
