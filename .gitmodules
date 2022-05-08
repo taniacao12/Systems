@@ -49,3 +49,6 @@
 [submodule "euler"]
 	path = euler
 	url = https://github.com/taniacao12/euler
+[submodule "pointy"]
+	path = pointy
+	url = https://github.com/taniacao12/pointy
